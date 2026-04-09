@@ -1,0 +1,17 @@
+{
+  "name": "@goecosystemdh/commitlint-config",
+  "version": "1.0.0",
+  "description": "Shared commitlint config for GoEcosystemDH - Conventional Commits",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoEcosystemDH/commitlint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "^19.0.0"
+  },
+  "license": "UNLICENSED"
+}

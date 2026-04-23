@@ -1,0 +1,6 @@
+# CODEOWNERS — revisores por defecto
+# Generado según checklist DevSecOps de GoEcosystemDH
+#
+# Cualquier cambio en el repo requiere aprobación de alguno de estos teams.
+
+* @GoEcosystemDH/devops-infra @GoEcosystemDH/development
